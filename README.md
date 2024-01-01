@@ -1,2 +1,2 @@
 # godtools
-Gaming ecommerce
+Gaming ecommerce software
